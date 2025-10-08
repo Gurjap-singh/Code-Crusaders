@@ -8,10 +8,9 @@ We extended the Sheridan starter code (Card, GroupOfCards, Player, Game) to impl
 ## Project Structure
 - `SYST17796_ProjectStarterCode/` → Starter code + our UNO extensions
 - `docs/` → Deliverable 1 documents (Team Contract, UML Diagram, Design Document)
-- `tests/` → JUnit tests (future deliverables)
 
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-team-name>/<your-repo>.git
+   git clone https://github.com/Gurjap-singh/Code-Crusaders
 
